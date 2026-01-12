@@ -6,7 +6,7 @@
 
 🚀 **About Me**
 
-I'm Enthusiastic and detail-oriented Front End Developer with almost 1,5 years of hands-on experience in creating responsive and user-focused web applications. Proficient in core web technologies like HTML, CSS, JavaScript, and React, with practical expertise in utilizing a variety of libraries and tools. Skilled at transforming ideas into functional, visually appealing interfaces by working closely with cross-functional teams.
+I'm Enthusiastic and detail-oriented Front End Developer with almost 2,5 years of hands-on experience in creating responsive and user-focused web applications. Proficient in core web technologies like HTML, CSS, JavaScript, and React, with practical expertise in utilizing a variety of libraries and tools. Skilled at transforming ideas into functional, visually appealing interfaces by working closely with cross-functional teams.
 
 **🌍 Based in:** Lviv, Ukraine
 
